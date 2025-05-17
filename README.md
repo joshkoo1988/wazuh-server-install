@@ -30,4 +30,4 @@ In this guide, I will walk through how to install a **Wazuh all-in-one server** 
     ```
     sudo tar -O -xvf wazuh-install-files.tar wazuh-install-files/wazuh-passwords.txt
 
-5.[download appropriate agent installer and follow the steps to link agent to the server that was installed](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
+5. [download appropriate agent installer and follow the steps to link agent to the server that was installed](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/index.html)
